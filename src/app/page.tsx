@@ -19,6 +19,11 @@ const Page = () => {
         roles={['Ceo Amazon', 'Ceo Blue Origin']}
       />
 
+      <Person
+        name='Avatar teste'
+        roles={['Ceo Teste', 'Ceo Teste 2']}
+      />
+
     </div>
   );
 }
